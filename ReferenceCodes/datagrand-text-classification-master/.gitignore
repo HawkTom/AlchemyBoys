@@ -1,0 +1,51 @@
+######################
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+#####################
+# Java Ignore files #
+#####################
+*.class
+
+#####################
+# C++ Ignore files #
+#####################
+*.gch
+*.out
+
+#######################
+# Python Ignore files #
+#######################
+__pycache__/
+
+##########################
+# Jetbrains Ignore files #
+##########################
+*.iml
+.idea/
+
+########################
+# PyCharm Ignore files #
+########################
+
+
+########################
+# Project Ignore files #
+########################
+raw_data/
+runs/
+reference_code/
+.ipynb_checkpoints/
+embeddings/
+embeddings2/
+submissions/
+models/
+word_vectors/
+processed_data/
