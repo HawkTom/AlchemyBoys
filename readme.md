@@ -16,6 +16,10 @@
 
 **test_set.csv** ：此数据用于测试。数据格式同train_set.csv，但不包含class。 注：test_set与train_test中文章id的编号是独立的。 友情提示：请不要尝试用excel打开这些文件！由于一篇文章太长，excel可能无法完整地读入某一行！ 
 
-#### 仓库用途：
+#### 数据的预处理：
+
+word2vec [向量词典数据](https://github.com/zhangtaochn/AlchemyBoys/tree/master/Data/result) 
+
+TF-IDF
 
 更新分享代码、相关论文等
